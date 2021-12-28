@@ -1,3 +1,3 @@
 ## SPSC Queue
 
-Accompanying code for https://thealexcons.github.io/spsc-queue/index.html/.
+Accompanying code for my [blog post](https://thealexcons.github.io/spsc-queue/index.html).
